@@ -4,12 +4,13 @@ public class Anagram {
 	
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
+		int i;
 
 		int t = sc.nextInt();
 		String s1,s2;
 		int[] arr,arr1;
 
-		for(int i=0;i<t;i++) {
+		for( i=0;i<t;i++) {
 			int c = 0;
 			s1 = sc.next();
 			s2 = sc.next();
