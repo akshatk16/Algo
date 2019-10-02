@@ -28,7 +28,7 @@ int main()
     for(int i=0;i<n;i++)                //INPUT OF ARRAY
         cin>>b[i];
     bsort(b,n);                         //CALLING FUNCTION SSORT
-    cout<<"\nSorted Array:";
+    cout<<"Sorted Array:";
     for(int i=0;i<n;i++)                //DISPLAY OF SORTED ARRAY
         cout<<b[i]<<"\n";
 
