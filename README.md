@@ -52,5 +52,5 @@ Avoid all the bad implementations, make your code as clean as possible.
 After that, find the folder that fits the category of your code and submit a PR.
 *Star* this repo if the information here is useful to you.
 
-### Please have a look at these :
+### Please have a look at these:
  - [CONTRIBUTING.md](https://github.com/IOSD/Algo/blob/master/CONTRIBUTING.md) for quick quidelines
